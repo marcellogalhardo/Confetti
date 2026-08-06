@@ -190,6 +190,7 @@ fun SettingsUI(
                             enabled = supportsNotifications
                         )
                     }
+
                 }
             }
 
