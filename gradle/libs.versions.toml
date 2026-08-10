@@ -53,9 +53,9 @@ work-runtime-ktx = "2.11.2"
 spring = "3.5.16"
 generativeai = "0.9.0-1.1.0"
 buildkonfig = "0.22.0"
-roborazzi = "1.70.0"
+roborazzi = "1.71.0"
 screenshot = "0.0.1-alpha15"
-composeai-preview = "0.19.40"
+composeai-preview = "0.19.48"
 koogAgents = "1.1.1"
 koogPromptExecutorAll = "1.1.1-beta"
 
@@ -117,6 +117,7 @@ coil-test = { module = "io.coil-kt:coil-test", version.ref = "io-coil-kt" }
 coil3-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "io-coil3-kt" }
 coil3-network-ktor = { module = "io.coil-kt.coil3:coil-network-ktor3", version.ref = "io-coil3-kt" }
 ktor-client-java = { group = "io.ktor", name = "ktor-client-java", version = "3.5.2" }
+ktor-client-js = { group = "io.ktor", name = "ktor-client-js", version = "3.5.2" }
 materialkolor = { module = "com.materialkolor:material-kolor", version.ref = "materialkolor" }
 
 compose-material = { module = "androidx.compose.material:material", version.ref = "compose" }
