@@ -3,7 +3,7 @@
 Auto-generated from `main`. Browse inline or compare against PR branches.
 
 > [!WARNING]
-> 3 preview(s) failed to render in the latest update (1 retained from the prior baseline; 2 with no prior baseline to retain). See **Render Failures** below.
+> 2 preview(s) failed to render in the latest update (2 with no prior baseline to retain). See **Render Failures** below.
 
 ## Render Failures
 
@@ -13,7 +13,6 @@ The render task completed but no PNG was produced for these previews. Entries wi
 |---------|--------|----------|--------|----------|
 | `androidApp/activity__MainActivity` | androidApp | `MainActivity` | `—` | none |
 | `wearApp/activity__MainActivity` | wearApp | `MainActivity` | `—` | none |
-| `wearApp/dev.johnoreilly.confetti.wear.bookmarks.BookmarksScreenKt.BookmarksPreviewLong_Devices - Large Round` | wearApp | `BookmarksPreviewLong` | `src/main/java/dev/johnoreilly/confetti/wear/bookmarks/BookmarksScreen.kt` | retained |
 
 ## androidApp
 
@@ -129,6 +128,7 @@ The render task completed but no PNG was produced for these previews. Entries wi
 | `BookmarksPreviewLoading` | <img src="https://raw.githubusercontent.com/marcellogalhardo/Confetti/compose-preview/main/renders/wearApp/BookmarksPreviewLoading_Fonts_Medium.png" width="150" /> |
 | `BookmarksPreviewLoading` | <img src="https://raw.githubusercontent.com/marcellogalhardo/Confetti/compose-preview/main/renders/wearApp/BookmarksPreviewLoading_Fonts_Normal.png" width="150" /> |
 | `BookmarksPreviewLoading` | <img src="https://raw.githubusercontent.com/marcellogalhardo/Confetti/compose-preview/main/renders/wearApp/BookmarksPreviewLoading_Fonts_Small.png" width="150" /> |
+| `BookmarksPreviewLong · scroll long` | <img src="https://raw.githubusercontent.com/marcellogalhardo/Confetti/compose-preview/main/renders/wearApp/BookmarksPreviewLong_Devices_Large_Round.png" width="150" /> |
 | `BookmarksPreview` | <img src="https://raw.githubusercontent.com/marcellogalhardo/Confetti/compose-preview/main/renders/wearApp/BookmarksPreview_Devices_Large_Round.png" width="150" /> |
 | `BookmarksPreview` | <img src="https://raw.githubusercontent.com/marcellogalhardo/Confetti/compose-preview/main/renders/wearApp/BookmarksPreview_Devices_Small_Round.png" width="150" /> |
 | `BookmarksPreview` | <img src="https://raw.githubusercontent.com/marcellogalhardo/Confetti/compose-preview/main/renders/wearApp/BookmarksPreview_Fonts_Large.png" width="150" /> |
